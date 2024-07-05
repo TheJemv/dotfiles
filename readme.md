@@ -1,7 +1,3 @@
-Here's a README.md template for your LazyMod key mappings and additional useful commands:
-
----
-
 # LazyMod Key Mappings and Commands
 
 ## Key Mappings
@@ -69,7 +65,3 @@ Here's a README.md template for your LazyMod key mappings and additional useful 
 - `<leader>*`: Search current word under cursor (`*`)
 - `<leader>bd`: Close current buffer (`:bd`)
 - `<leader>sp`: Toggle spell check (`:set spell!`)
-
----
-
-Feel free to adjust the key mappings and commands according to your preferences and add more as needed. This README.md file will help you remember and quickly reference your customized key mappings and useful commands in LazyMod.
