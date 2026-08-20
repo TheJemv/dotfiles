@@ -6,3 +6,6 @@
 --
 -- Or remove existing autocmds by their group name (which is prefixed with `lazyvim_` for the defaults)
 -- e.g. vim.api.nvim_del_augroup_by_name("lazyvim_wrap_spell")
+
+-- (the "LazyVimStarted" footer override moved to init.lua, so it registers
+-- before that event can possibly fire — this file loads too late for it)
