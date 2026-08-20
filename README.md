@@ -2,7 +2,7 @@
 
 Mi configuración personal de Neovim, sobre [LazyVim](https://www.lazyvim.org/).
 
-![dashboard](./images/screenshot.jpg)
+![dashboard](./images/screenshot.png)
 
 ## Qué incluye
 
@@ -33,14 +33,14 @@ Al abrir nvim por primera vez, `lazy.nvim` va a instalar todos los plugins autom
 
 ## Shortcuts que vale la pena recordar
 
-| Atajo | Acción |
-|---|---|
-| `<leader>` | Barra espaciadora |
-| `Ctrl + s` | Guardar archivo |
-| `<leader>bd` | Cerrar el buffer/archivo actual (sin cerrar nvim) |
-| `:wq` / `ZZ` | Guardar y cerrar |
-| `<leader><space>` | Buscador de archivos (Smart Find) |
-| `<leader>/` o `<leader>sg` | Buscar texto en el proyecto (ripgrep) |
-| `<leader>cd` | Ver diagnóstico completo de la línea |
-| `<leader>xx` | Lista de diagnósticos (Trouble) |
-| `<leader>cf` | Formatear archivo (Prettier/conform) |
+| Atajo                      | Acción                                            |
+| -------------------------- | ------------------------------------------------- |
+| `<leader>`                 | Barra espaciadora                                 |
+| `Ctrl + s`                 | Guardar archivo                                   |
+| `<leader>bd`               | Cerrar el buffer/archivo actual (sin cerrar nvim) |
+| `:wq` / `ZZ`               | Guardar y cerrar                                  |
+| `<leader><space>`          | Buscador de archivos (Smart Find)                 |
+| `<leader>/` o `<leader>sg` | Buscar texto en el proyecto (ripgrep)             |
+| `<leader>cd`               | Ver diagnóstico completo de la línea              |
+| `<leader>xx`               | Lista de diagnósticos (Trouble)                   |
+| `<leader>cf`               | Formatear archivo (Prettier/conform)              |
